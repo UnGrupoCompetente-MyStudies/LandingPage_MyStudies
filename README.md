@@ -17,3 +17,4 @@ El proyecto está dirigido a:
 ## Características Principales
 - Diseño responsivo
 - Estructura modular (HTML, CSS, JS)
+
